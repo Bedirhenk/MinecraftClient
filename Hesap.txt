@@ -1,0 +1,16 @@
+wait
+wait
+wait
+send /login ŞİFRE
+wait
+wait
+wait
+wait
+wait
+send /skyblock
+wait
+wait
+wait
+wait
+wait
+send /home
