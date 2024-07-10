@@ -6,15 +6,4 @@ Kullanım Talimatları:
 
 3. Tebrikler! Artık RakitBOT kullanıcısısınız.
 
-
-Önerilen Talimatlar:
-
-1. Botunuz düştüğü takdirde panel üzerinden "/recon" veya "/exit" yazın.
-
-2. Ping sorununun FAZLA olduğu sunucularda /home çekmeyebilir, bunu çözmek için "MinecraftClient.ini" dosyasından [Anti AFK] kısmındaki
-enabled=true
-delay=6000
-command=/home
-yapınız.
-
 ##### SORUN OLUŞTUĞU TAKDİRDE DİSCORD ÜZERİNDEN DESTEK TALEBİ AÇINIZ #####
