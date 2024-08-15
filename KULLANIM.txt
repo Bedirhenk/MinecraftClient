@@ -1,6 +1,6 @@
 Kullanım Talimatları:
 
-1. MinecraftClient.ini dosyasından sadece login= yazan bölümün karşısındaki isim yerini kendi AFK hesabınızın ismiyle değiştirin.
+1. WEB Panelinizde bulunan "Startup" kısmından AFK nickname ve gireceğiniz sunucunun IP Adresini ayarlayın.(Varsayılan olarak CraxeCraft sunucusunun IP Adresi bulunmaktadır.)
 
 2. Files kısmındaki Hesap.txt dosyasına girip /login ŞİFRE kısmına şifrenizi yazınız.
 
