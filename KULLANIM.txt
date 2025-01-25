@@ -1,7 +1,9 @@
 Kullanım Talimatları:
 
-1. WEB Panelinizde bulunan "Startup" kısmından AFK nickname ve gireceğiniz sunucunun IP Adresini ayarlayın.
-2. MinecraftClient.ini dosyasındaki [[ChatBot.ScriptScheduler.TaskList]] kısmından /login ŞİFRE kısmındaki 'ŞİFRE' yerine şifrenizi yazın.
+1. MinecraftClient.ini dosyasından sadece login= yazan bölümün karşısındaki isim yerini kendi AFK hesabınızın ismiyle değiştirin.
+
+2. Files kısmındaki Hesap.txt dosyasına girip /login ŞİFRE kısmına şifrenizi yazınız.
+
 3. Tebrikler! Artık RakitBOT kullanıcısısınız.
 
 ##### SORUN OLUŞTUĞU TAKDİRDE DİSCORD ÜZERİNDEN DESTEK TALEBİ AÇINIZ #####
